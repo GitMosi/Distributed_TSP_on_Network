@@ -1,4 +1,4 @@
-# Distributed_TSP_on_Network
+# Distributed TSP on Network
 
 This repository contains a Python implementation of the Distributed Traveling Salesman Problem (TSP) using heuristics and parallel processing concepts. The code utilizes the [python-tsp](https://python-tsp.readthedocs.io/) library for simulated annealing to solve TSP problems.
 
